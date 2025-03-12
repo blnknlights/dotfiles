@@ -1,1 +1,1 @@
-../dotfiles/polybar/.config/launch_polybar.sh
+./polybar/launch_polybar.sh
